@@ -15,8 +15,11 @@ The goal is for the practicioners to create a python progran that solves the exa
 ## Functional Specifications
 
 ## User Instructions
-In Git Bash, navigate to the Github repository (1.Loan-Analysis) where the "Loan_A/nalyzer.py" Python program is located and execute using the python command
+1. In Git Bash, navigate to the Github repository (1.Loan-Analysis) where the "Loan_A/nalyzer.py" Python program is located and execute using the python command
 The Output for each section will be as follows
+2. For submission purposes, below is the url for the Github repository where the source code of the python program  is located
+https://github.com/LUTOV001/1.Loan-Analysis
+loan_analyzer.py
 
 ### Part I - Automated Calculation
 Provides the count of loans in the portfolio, the average value of the loans and the total amount for all loans
